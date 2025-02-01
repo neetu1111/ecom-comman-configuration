@@ -1,0 +1,3 @@
+   logging:
+     file:
+         name: D:/JavaTechie/Microservices/ecom.log
