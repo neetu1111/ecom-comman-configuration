@@ -18,7 +18,8 @@ test:
   input: 500000    
 
    
-   
-   logging:
-     file:
-         name: D:/JavaTechie/Microservices/ecom.log
+logging:
+  file:
+    name : D:/JavaTechie/Microservices/logs/ecom.log
+
+    
